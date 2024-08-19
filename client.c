@@ -1,11 +1,3 @@
-/*******************************************************************************
- * Name        : client.c
- * Author      : Cormac Taylor
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
-
-/*** socket/demo2/client.c ***/
-
 #include <stdio.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
