@@ -1,1 +1,2 @@
 # online_multiplayer_trivia_game
+- Engineered a live multiplayer trivia game utilizing socket programming and the client-server model supporting classic or custom trivia questions. Increased performance by processing questions while waiting for players to join.
